@@ -1,3 +1,2 @@
-#### Analysis of Indian Trade Data. 
-
-Place holder README. More information to be added.
+Web scraper for collecting country and commodity wide imports and exports data
+from Indian Department of Commerce's [TradeStat](https://tradestat.commerce.gov.in/eidb/) database.
